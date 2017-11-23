@@ -1,0 +1,18 @@
+branch-defaults:
+  master:
+    environment: eb-cli-tutorial
+    group_suffix: null
+global:
+  application_name: eb-cli-tutorial
+  branch: null
+  default_ec2_keyname: aws-cli-tutorial
+  default_platform: Python 2.7
+  default_region: us-west-2
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: null
+  sc: git
+  workspace_type: Application
